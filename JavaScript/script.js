@@ -30,7 +30,7 @@ function calculateAge() {
         let d2 = today.getDate(); // Den
         let m2 = today.getMonth() + 1; // Měsíc
         let y2 = today.getFullYear(); // Rok
-        // console.log(`${d1}.${m1}.${y1}`);
+        // console.log(`${d2}.${m2}.${y2}`);
 
         // Vytvoření proměnných pro výsledné datum
         let d3, m3, y3;
