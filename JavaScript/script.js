@@ -1,7 +1,7 @@
 // Proměnné
-let userInput = document.getElementById('date'),
-    calcBtn = document.getElementById('calc-btn'),
-    result = document.getElementById('result');
+let userInput = document.getElementById('date');
+let calcBtn = document.getElementById('calc-btn');
+let result = document.getElementById('result');
 
 // Získání aktuálního datumu (max hodnota, kterou může uživatel zadat)
 userInput.max = new Date().toISOString().split('T')[0];
