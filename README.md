@@ -1,6 +1,7 @@
 ## Age Calculator App 🧮 
 • HTML, CSS and JavaScript 📂 <br>
-• This Age Calculator App will display the exact age in years, months and days.✅ 
+• This Age Calculator App will display the exact age in years, months and days. ✅ 
+• Responsive Design ✅
 
 ## Screenshots 📱
 <img src="img/1 Age Calculator.jpg" width="350"> <img src="img/2 Age Calculator.jpg" width="350">
@@ -11,5 +12,5 @@
 ## 🌐 Link
 <a href="https://age-calculator-dejvcodes.netlify.app/">Age Calculator</a>
 
-## License🔐
+## License 🔐
 [MIT License](LICENSE)
