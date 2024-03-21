@@ -1,6 +1,6 @@
 ## Age Calculator App 🧮 
 • HTML, CSS and JavaScript 📂 <br>
-• This Age Calculator App will display the exact age in years, months and days. ✅ 
+• This Age Calculator App will display the exact age in years, months and days. ✅ <br>
 • Responsive Design ✅
 
 ## Screenshots 📱
